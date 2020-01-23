@@ -37,8 +37,9 @@ It routinely provides:
 
 And also (though not all options are compatible):
 
-
-
+.. math:
+    :label:
+    &\int_{\alpha}
 
 
 
