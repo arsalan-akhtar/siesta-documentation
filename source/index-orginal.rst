@@ -34,4 +34,9 @@ Welcome to SIESTA's documentation!
    authors-siesta
    compiling
 
+Indices and tables
+==================
 
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
