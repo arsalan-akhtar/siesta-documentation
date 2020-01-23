@@ -14,8 +14,8 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 #============================================================================
-import sys
-import sphinx_rtd_theme
+#import sys
+#import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
@@ -50,7 +50,7 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 #html_theme = 'alabaster'
-#html_theme ='default'
+html_theme ='default'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
@@ -60,15 +60,6 @@ html_static_path = ['_static']
 
 
 #============================
-html_theme = 'sphinx_rtd_theme'
-html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-html_style = 'gpaw.css'
-html_title = 'GPAW'
-#html_favicon = 'static/gpaw_favicon.ico'
-#html_static_path = ['static']
-html_last_updated_fmt = '%a, %d %b %Y %H:%M:%S'
-dev_version = '19.8.2b1'  # This line auto-edited by newrelease script
-stable_version = '19.8.1'  # This line auto-edited by newrelease script
 
 mathjax_config = {
     'TeX': {
