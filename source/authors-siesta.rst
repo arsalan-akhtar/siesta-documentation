@@ -12,8 +12,10 @@ Authors
 * José M. Soler (Universidad Autónoma de Madrid)
 
 SIESTA is Copyright © 1996-2019 by The Siesta Group
+
 Contributors to SIESTA
 ----------------------
+
 The SIESTA project was initiated by Pablo Ordejon (then at the Univ. de Oviedo), and Jose M.
 Soler and Emilio Artacho (Univ. Autonoma de Madrid, UAM). The development team was then
 joined by Alberto Garcia (then at Univ. del Pais Vasco, Bilbao), Daniel Sanchez-Portal (UAM),
