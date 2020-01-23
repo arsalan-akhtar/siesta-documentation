@@ -19,8 +19,8 @@ SIESTA (Spanish Initiative for Electronic Simulations with Thousands of Atoms) i
 
 
 .. math:
-    :label:
-    &\int_{\alpha}
+    
+    \int_{\alpha}
 
 
 
