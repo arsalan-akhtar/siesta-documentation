@@ -17,25 +17,6 @@ SIESTA (Spanish Initiative for Electronic Simulations with Thousands of Atoms) i
 
 * Besides the standard Rayleigh-Ritz eigenstate method, it allows the use of localized linear combinations of the occupied orbitals (valence-bond or Wannier-like functions), making the computer time and memory scale linearly with the number of atoms. Simulations with several hundred atoms are feasible with modest workstations.
 
-* It is written in Fortran 95 and memory is allocated dynamically.
-
-* It may be compiled for serial or parallel execution (under MPI).
-
-It routinely provides:
-
-* Total and partial energies.
-
-* Atomic forces.
-
-* Stress tensor.
-
-* Electric dipole moment.
-
-* Atomic, orbital and bond populations (Mulliken).
-
-* Electron density.
-
-And also (though not all options are compatible):
 
 .. math:
     :label:
