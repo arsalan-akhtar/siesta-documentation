@@ -32,7 +32,7 @@ Welcome to SIESTA's documentation!
    :caption: Contents:
 
    authors-siesta
-
+   compiling
 
 Indices and tables
 ==================
