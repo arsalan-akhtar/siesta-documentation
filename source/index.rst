@@ -8,9 +8,7 @@ Welcome to SIESTA's documentation!
 
 SIESTA (Spanish Initiative for Electronic Simulations with Thousands of Atoms) is both a method and its computer program implementation, to perform electronic structure calculations and ab initio molecular dynamics simulations of molecules and solids. Its main characteristics are:
 
-* It uses the standard Kohn-Sham selfconsistent density functional method in the local den-
-sity (LDA-LSD) and generalized gradient (GGA) approximations, as well as in a non local
-functional that includes van der Waals interactions (VDW-DF).
+* It uses the standard Kohn-Sham selfconsistent density functional method in the local density (LDA-LSD) and generalized gradient (GGA) approximations, as well as in a non local functional that includes van der Waals interactions (VDW-DF).
 
 * It uses norm-conserving pseudopotentials in their fully nonlocal (Kleinman-Bylander) form.
 * It uses atomic orbitals as a basis set, allowing unlimited multiple-zeta and angular momenta, polarization and off-site orbitals. The radial shape of every orbital is numerical and any shape can be used and provided by the user, with the only condition that it has to be of finite support, i.e., it has to be strictly zero beyond a user-provided distance from the corresponding nucleus. Finite-support basis sets are the key for calculating the Hamiltonian and overlap matrices in O(N ) operations.
