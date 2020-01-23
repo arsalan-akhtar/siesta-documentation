@@ -1,0 +1,2 @@
+.. include:: docs/AUTHORS.rst
+

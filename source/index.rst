@@ -5,12 +5,33 @@
 
 Welcome to SIESTA's documentation!
 ==================================
+   Writing stuff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-    Test
 
+   authors
 
 
 Indices and tables
