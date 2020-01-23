@@ -20,7 +20,7 @@ SIESTA (Spanish Initiative for Electronic Simulations with Thousands of Atoms) i
 
 .. math::
     
-    \{alpha}
+    \int \exp (x\times {\alpha})dx
 
 
 
