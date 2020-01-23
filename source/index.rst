@@ -5,7 +5,9 @@
 
 Welcome to SIESTA's documentation!
 ==================================
+
 SIESTA (Spanish Initiative for Electronic Simulations with Thousands of Atoms) is both a method and its computer program implementation, to perform electronic structure calculations and ab initio molecular dynamics simulations of molecules and solids. Its main characteristics are:
+
 * It uses the standard Kohn-Sham selfconsistent density functional method in the local den-
 sity (LDA-LSD) and generalized gradient (GGA) approximations, as well as in a non local
 functional that includes van der Waals interactions (VDW-DF).
@@ -24,7 +26,9 @@ computer time and memory scale linearly with the number of atoms. Simulations wi
 hundred atoms are feasible with modest workstations.
 * It is written in Fortran 95 and memory is allocated dynamically.
 * It may be compiled for serial or parallel execution (under MPI).
+
 It routinely provides:
+
 * Total and partial energies.
 * Atomic forces.
 * Stress tensor.
