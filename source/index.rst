@@ -31,7 +31,7 @@ Welcome to SIESTA's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   authors
+   authors-siesta
 
 
 Indices and tables
